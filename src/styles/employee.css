@@ -1,0 +1,13 @@
+.add-employee-container {
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+.photo-wrapper {
+    display: flex;
+}
+
+.photo-wrapper .photo-field {
+    flex: 1;
+    margin-right: 8px;
+}
