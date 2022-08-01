@@ -31,7 +31,7 @@ export default function EditEmployee() {
   };
   return (
     <section className="add-employee-container">
-      <h1>Please complete the below form</h1>
+      <h1>You are Editing Employee {employee.firstName}</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="first-name">First Name</label>

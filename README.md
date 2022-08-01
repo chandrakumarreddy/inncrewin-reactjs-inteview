@@ -1,18 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Employee module
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+<img src='./1.png' width='400' height='400'>
+<img src='./2.png' width='400' height='400'>
+<img src='./3.png' width='400' height='400'>
+<img src='./4.png' width='400' height='400'>
+<img src='./5.png' width='400' height='400'>
 
-### `npm start`
+## functionalities
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. list employees
+2. add employee
+3. remove employee
+4. edit employee
+5. preview photo
